@@ -1,0 +1,6 @@
+dist
+dist-wgt
+node_modules
+coverage
+*.wgt
+.tizen

@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+dist-wgt/
+*.wgt
+coverage/
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
+
+# Env & Certificates (NEVER commit secrets or Tizen certs)
+.env
+.env.*
+*.p12
+*.pem
+*.cer
+profiles.xml
+author.p12
+distributor.p12
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
