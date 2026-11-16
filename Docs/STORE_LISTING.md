@@ -7,7 +7,7 @@
 - **Categoria:** Video / Entertainment (`Entretenimento`)
 - **Classificação Etária:** Livre / General (`A VALIDAR` conforme questionário do portal)
 - **Países / Regiões:** Brasil (inicial) ou Global (`All Countries`, exceto regiões restritas)
-- **URL Política de Privacidade:** `https://<SEU_DOMINIO>/privacy.html` (arquivo base em [public/privacy.html](file:///f:/projeto/NetTV/public/privacy.html))
+- **URL Política de Privacidade:** `https://rodrigosrocha80.github.io/nettv/privacy.html` (arquivo fonte em [public/privacy.html](file:///f:/projeto/NetTV/public/privacy.html))
 - **E-mail / URL de Suporte:** `<SEU_EMAIL_DE_SUPORTE>`
 
 ---
